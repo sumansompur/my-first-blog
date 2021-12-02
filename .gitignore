@@ -31,3 +31,4 @@ $RECYCLE.BIN/
 .history/
 *.code-workspace
 
+mysite/__pycache__/urls.cpython-38.pyc
