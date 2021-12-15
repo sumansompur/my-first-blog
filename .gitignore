@@ -32,3 +32,4 @@ $RECYCLE.BIN/
 *.code-workspace
 
 mysite/__pycache__/urls.cpython-38.pyc
+my_first_blog.code-workspace
